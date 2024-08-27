@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gusto Lunch Menu</string>
+
+    <string name="weekday_monday">Monday</string>
+    <string name="weekday_tuesday">Tuesday</string>
+    <string name="weekday_wednesday">Wednesday</string>
+    <string name="weekday_thursday">Thursday</string>
+    <string name="weekday_friday">Friday</string>
+
+    <string name="loading_screen_message">"Loading menu data..."</string>
+
+    <string name="error_screen_message">"Failed loading your lunch menu..."</string>
+    <string name="error_screen_retry">"Try again"</string>
+    <string name="error_screen_icon">"Error icon"</string>
+
+    <string name="toolbar_title">Week of %s"</string>
+    <string name="toolbar_title_this_week">This week</string>
+
+    <string name="toolbar_next_week">Next Week"</string>
+    <string name="toolbar_previous_week">Previous Week"</string>
+
+    <string name="list_divider_image">Horizontal menu divider</string>
+</resources>
